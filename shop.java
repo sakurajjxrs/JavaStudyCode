@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //do...while循环
 public class demo1 {
     public static void main(String[] args){
