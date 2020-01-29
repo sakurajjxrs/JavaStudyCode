@@ -52,9 +52,6 @@ public class Test1 {
                 }
             }
         }
-
-
-
         System.out.println("排序后：");
         for (int i=0; i<nums.length; i++) {
             System.out.print(nums[i]+"\t");
